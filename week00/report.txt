@@ -1,0 +1,2 @@
+#Dina Febrianti Krisna
+Tugas week 0 memberikan pemahaman mengenai akun github dan cara membuat repository di github, serta login ke server badak.
