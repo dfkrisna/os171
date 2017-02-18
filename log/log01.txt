@@ -1,0 +1,10 @@
+w01-130217-13-PS-About: Creating folders and introduction to scripting.
+w01-130217-13-PS-About: Creating folders and introduction to scripting.
+w01-140217-13-LR-About: HKI and introduction to scripting, From: Lecturer
+w01-140217-13-LR-About: HKI and introduction to scripting, From: Lecturer
+w01-140217-14-LR-About: HKI and introduction to scripting, From: Lecturer
+w01-140217-19-PS-About: Creating folders and introduction to sciripting.
+w01-160217-16-LR-About: Watching demo of scripting from lecturer
+w01-160217-16-LR-About: Watching demo of scripting from lecturer
+w01-160217-17-LR-About: Watching demo of scripting from lecturer
+w01-160217-20-PS-About: Introduction to scripting.
