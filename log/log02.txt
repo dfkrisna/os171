@@ -1,0 +1,13 @@
+w02-210217-13-LR-About: Protection and Security, From: Lecturer
+w02-210217-13-LR-About: Protection and Security, From: Lecturer
+w02-210217-14-LR-About: Protection and Security, From: Lecturer
+w02-210217-18-PS-About: Basics of protection, security and c language
+w02-210217-19-PS-About: Basics of protection, security and c language
+w02-210217-19-PS-About: Basics of protection, security and c language
+w02-210217-20-PS-About: Basics of protection, security and c language
+w02-210217-20-PS-About: Basics of protection, security and c language
+w02-230217-13-LR-About: Basics of C language, From: Lecturer
+w02-230217-13-LR-About: Basics of C language, From: Lecturer
+w02-230217-14-LR-About: Basics of C language, From: Lecturer
+w02-250217-10-PS-About: Basics of protection, security and c language
+w02-250217-13-LR-About: Basics of C language, From: SCELE's videos
